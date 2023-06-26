@@ -189,7 +189,7 @@ SpriteRenderer:
   m_Size: {x: 161.7, y: 20}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &152280554
@@ -24831,7 +24831,7 @@ GameObject:
   - component: {fileID: 538942632}
   - component: {fileID: 538942633}
   m_Layer: 0
-  m_Name: Monedas para Pete-01
+  m_Name: Moneda ORO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
