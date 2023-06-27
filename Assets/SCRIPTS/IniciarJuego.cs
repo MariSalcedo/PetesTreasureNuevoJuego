@@ -3,16 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class TeclaCambiarEscena : MonoBehaviour
+public class IniciarJuego : MonoBehaviour
 {
-    public string QueEscenaCargar;
+    //Empezar a jugar
+    public string EmpezarEnEscena;
 
     // Update is called once per frame
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            SceneManager.LoadScene(QueEscenaCargar);
+            SceneManager.LoadScene(EmpezarEnEscena);
         }
     }
 }
