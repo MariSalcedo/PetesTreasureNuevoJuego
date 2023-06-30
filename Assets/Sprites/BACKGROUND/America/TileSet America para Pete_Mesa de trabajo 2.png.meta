@@ -1,0 +1,3315 @@
+fileFormatVersion: 2
+guid: 687a533e807d79d4f89b20f75b99c09b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900ea77fdf975ac43a891945edf0a616
+      internalID: -1418187503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70170019e769d604293851f7fcd00e76
+      internalID: 1872316568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237a6a10183223345aafdf533ad7ec5e
+      internalID: -1980054527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ccdd031296cc4abed8397a7494a34
+      internalID: 1223572219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b9e7debbef4c9428ee593303a14028
+      internalID: -2040367189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcfa05df2902784584cc04acc273f1c
+      internalID: -1488225480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd100bc26b1a69e40b4aa8706c006985
+      internalID: 669894929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d5655abb35a1545a4d954892add911
+      internalID: 429973136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6070cd5c171009e4db7f49fec0fbfdea
+      internalID: -1838597702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db19c258455c1aa4ab4e73d3b22d95b3
+      internalID: -678947044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab879f3b5ae216439f1f5146a77cdec
+      internalID: 1529752988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b1bfdc56bf5eb4aa5cdf281fddc712
+      internalID: 2087515015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef378720f7443064893185731ca60966
+      internalID: 98822776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1050
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49237343c8ee35345bfd758c53eacbb0
+      internalID: -1361982836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1050
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9de5f3550f9994bb4b29fb3b1c8a2a
+      internalID: 1984344750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1050
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae08429ec295248909cd90961bf859
+      internalID: 1361324769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1050
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e329ffb2f1afaf946803ea265d8bb276
+      internalID: 1644380370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1050
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167ea472183c07d46805ff822dbf3927
+      internalID: -184654880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1050
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fdb5aa576a55141ab769434c461a75
+      internalID: 748759093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_19
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1050
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9bc238f1a1464c8e4cfa4cd7bb876
+      internalID: -1418827786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1050
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd3e23679bf1bc4489207b49b1d2953
+      internalID: -264818217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1050
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48934569fca0ba74aaa4e57866ded364
+      internalID: 336676599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1050
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307bdffaf6e89c74d9a4fa829907293f
+      internalID: 2089827624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_23
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1050
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fa26ccd24caba49b9e3b35dfd4446d
+      internalID: -1793642212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723ef0570b985554a9c1eb8fa8bc4374
+      internalID: -2066241445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 950
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2812fc119ea7c4487d6e2469d939cd
+      internalID: 1597952866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 950
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84294daa6f464441907e87e6ae5f4c5
+      internalID: 1509090834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 950
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ffd4d91189ac947b139d0248c507d8
+      internalID: 1799379924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 950
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3142bdad4631e7498caa622cb97fefb
+      internalID: 227905051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 950
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00132628a40a6aa42b7c6db2a2fba195
+      internalID: 1164940954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 950
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d271d1fc31103c642a2b170096359297
+      internalID: 411859609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 950
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45a490500d91fb49843e9d85302caf3
+      internalID: -1768099884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 950
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb679dd9856069b44a4aefd5cb3f2eb9
+      internalID: -618179866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_33
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 950
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aec68193311134fb58f878743bf258
+      internalID: 1835114058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 950
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f455c9431c36044c937a2ad20baebd2
+      internalID: -1038736779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_35
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 950
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9d20052a9ea924784221962824ab01
+      internalID: -571184527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a034b433e9fe4d48800c3757062cd32
+      internalID: 1558522666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 850
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb5e9954c87ff1469ffb3103a2b8016
+      internalID: 1832272158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 850
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414bcdebb8c7f75408f70dbe31dbfa87
+      internalID: 1169602548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 850
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69307dcde59b1b8499f0a437fbb110d8
+      internalID: 30820794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 850
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50fac966074aa24b849110ceb93e30f
+      internalID: -1405243861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 850
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f116856b95e21c44883a92e733625b59
+      internalID: 1674392305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 850
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fb464552034714d9c0f5867acc7737
+      internalID: -576544943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 850
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdc00abc3faedd4c856b9c0830c054e
+      internalID: 954187305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 850
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a7af7be2c2ebe4599e54ba35be67da
+      internalID: 279626552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_45
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 850
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f99fa4a745f73429672821dcfb15fa
+      internalID: -789209532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_46
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 850
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88b36131821a1246995ba272c488d69
+      internalID: -972172092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_47
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 850
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aca189e7f042846b65af9d77ba48fe
+      internalID: -957776525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd621d5c2789d10479d1b1e043b4e191
+      internalID: 1019350092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba082a43d1595a429a08ba06b2fb3b5
+      internalID: -1771150316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0ec12e5cbb52e47a48afcf418a13dd
+      internalID: -2115059672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfb6a0c0cdd75240850c2e90b1b64bf
+      internalID: -166601248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b8b821bf30f2439a16e588dc19d48
+      internalID: 269439204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_53
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce3d36f159c223458a3c19fd2dd880b
+      internalID: -313891527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe6565422c07f447bad24523ce6dfa1
+      internalID: 512117242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aef6d2e909099a4a93e01879b2bad8d
+      internalID: 1207779535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ae2e693500d9c48bdd21cb1bebd941
+      internalID: -1573623138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_57
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133caa6802d287f4a9fa5d2fcd0a4a65
+      internalID: 917136539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_58
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d1b021f0bebba4fbe9e984bcf448a2
+      internalID: 18444300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_59
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb919ad54d61f14388031999c9b109c
+      internalID: -1941891013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e013f75607b97ce42bec0c84b9c9bdd2
+      internalID: 1949551895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e07aad32aa9e7f41b057d3d51cc7693
+      internalID: -286174617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e16164c28ecea478addfc1b2c02f86
+      internalID: 1483701591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cfb2014d75cd54785577c38ad0e63f
+      internalID: -1553277791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cb5d1b9d51b4840b56ce6a64b2d21d
+      internalID: -1703121308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a7887b2b1404a4a96ac51473368774
+      internalID: -26206882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe62be4c0af687448ca5c45fe140d7b
+      internalID: 615562759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca7883f76b91b48aee0266938c700f
+      internalID: -75476800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcbc90522a9cd441a4e97f00f1bd580
+      internalID: 1977893829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd13ef9fbd25a4f8f56c31796014b8
+      internalID: 965145164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_70
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06640bb0442fc14093d27f4457acc57
+      internalID: -527201386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_71
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84dd4ae714edf844a677b44163a2da2
+      internalID: 676162126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f01a1df716836843bc10a5be1290fb2
+      internalID: 1724341223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6580ba091349b84981695306bc725c7
+      internalID: 1318853299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_74
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a702f0ab6978447a58dc5a73cb4846
+      internalID: -2119133925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_75
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6290e51dc9a17e4a9fea0d1658265f8
+      internalID: 135004234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6282e23af3cc12f4eb322ffbc2f812af
+      internalID: 1073123051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_77
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4355c06da157e48bb67cc2fbc25fe9
+      internalID: -575862130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_78
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce74bf4de440da4fb1d695824ee2ccc
+      internalID: -965295217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_79
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa813a7e690d6f47bf80d39bc862c60
+      internalID: 1312344370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_80
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39986b90beb234447a6f9dc982aeddce
+      internalID: 977925351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_81
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5edde693e1fac842b5c3f6dc10f3dec
+      internalID: -1299976378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_82
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4abe0419d4a64488a7630b0892ba46
+      internalID: -1056846648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_83
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b98f17f1c5b08d4abdef989acfb97d8
+      internalID: 1679895668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477566ce6074a4841bfe49bdb4fda261
+      internalID: 319359364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_85
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f154721d36836f542b3a7d045d42c9c2
+      internalID: 761967823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_86
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a947b3a853175a49b975aac43b1d43c
+      internalID: 2066671855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_87
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2926be177d5d5dc4d92826aea5d4c87e
+      internalID: -33043986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_88
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f983ae1c26bf6f44beb7bc10f108139
+      internalID: 1840850210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_89
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95a12df200539f45ac4dcf50763baec
+      internalID: 598571042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_90
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ad8a559b8c2284eaf545c21762ae24
+      internalID: 972183956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_91
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0473b1361009014aaaeffed0eaeea95
+      internalID: 226195237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_92
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dba4628949553468088971957d6890
+      internalID: 575556744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_93
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2796c94ba0c8643a16bedb39f558dc
+      internalID: 1184548709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_94
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb708d257e4a1364eb8131ccb334f116
+      internalID: -1975299083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_95
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4183a47012fbb9f48859a8ba8b4492ca
+      internalID: -1358427667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3dfaabc95e7dc4cabe590c9bc52400
+      internalID: -56324753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_97
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b97c0672cc65e438d2b28573cc6326
+      internalID: -118176236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_98
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e223a14e8adaf043988a8c85ae9cd34
+      internalID: 1540665493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_99
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b65a9708829e3489710c0937b23c80
+      internalID: 816094302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_100
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e970755537442f46a64f96d00a23775
+      internalID: -916438413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_101
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d90003ecbed9d499e15e0e79f83830
+      internalID: -1829541654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_102
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b303a0fc9b564eab619dbec3ccc0e
+      internalID: 819389516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_103
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d5b1d5204887943a18adf029277e2a
+      internalID: -812886813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_104
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4579d3adcb6634b983e3fe4aeaf405
+      internalID: 1713430215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_105
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c445bf6ece58914fabba9312d1441c0
+      internalID: -1916604675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_106
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7c5dd01380e3546b82fe4c08e2d98e
+      internalID: -2006383779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_107
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe33139288040eb49b125ebe533c903e
+      internalID: -219888853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39c5493c2a6d2e45b2b55e0b46a66bc
+      internalID: -1037297508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_109
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17260ce0cfed53245aaafb86b478607f
+      internalID: -1509731197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_110
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b325b3769de4fd241ac44099e219bb62
+      internalID: -1277903827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_111
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51848b8109acf7c42a7898a934978df2
+      internalID: 1900301728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_112
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5abfba12e1afa41950dbff6cd38aec
+      internalID: 1345352793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_113
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e716ea33dd4e06c4b8b4d3cb095ac0bd
+      internalID: 43854964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_114
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334438379e72eeb4c8961a6dd6f7c66c
+      internalID: -493816049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_115
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30f4b647e703b44886dc1ee7242ce15
+      internalID: -149120484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_116
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c633fb2a55d9424eb8b8e5a0adbd02d
+      internalID: -1414778483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_117
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f6bad95eda8e04fab6db8abc4114d1
+      internalID: 206692627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_118
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1716ff8e2fc58b4ca2fba5c8af22e98
+      internalID: 968199577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_119
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd371dcd6f07541a1b941c899abf79
+      internalID: 1731582595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a944435acfd44054991eacf31fed5fe9
+      internalID: 2101137138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4cc18656717dd4a8439d5e3336884e
+      internalID: 774022286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b9a7a8c48cc14b905e58efe0ca979
+      internalID: 1675886387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344c7281c5247784f9d94bf9f26dbfd2
+      internalID: -1912502833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a85018e1f30e4985c7b885142bdd8
+      internalID: -1517018466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b441e9f1eb7923499a1af3a59a238f6
+      internalID: 1150218212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e17cb9928d7a1448acd974ab794ac5
+      internalID: -404674458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9fc600d51a1094882b4e33376a0631
+      internalID: -1249583585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_128
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e73945b7e9c9b4cb610def6a997356
+      internalID: -1845906333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2ac50267eb2b844bae076b17f1f23b
+      internalID: -110002572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_130
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6d98c91e6e4f14587ea36b0e00679b
+      internalID: 495637167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_131
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fee6d3895c2b24c9350e9b69664c49
+      internalID: 166701249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1633e4e80d38ef8499ae2b1c9947dcf6
+      internalID: 119527193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_133
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61101c3a0d689e6499fc13c49b257698
+      internalID: 2009727770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf43345a2c01d4caef71a8e1666357
+      internalID: 1728711237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_135
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184ddf151c23d6846adec6de294499bd
+      internalID: 1178567200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_136
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc731596e9ce84286d4d33fada4a83
+      internalID: 1140453134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_137
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c24952851efb6c44b09e11c59a2d69b
+      internalID: -2123395639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_138
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2af32c2a0ee5a4c83b83cc86bf701b
+      internalID: 814198910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_139
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a496251eec39cbe4eb529eba23cfdd88
+      internalID: 2099836808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_140
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a34a2bbcbcf6534f9d04025a710cb2c
+      internalID: -2068986037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_141
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b158daed063414fbc7a08f0c540634
+      internalID: 703795237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_142
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1927b7ae8743fc4f92965b08e9a2305
+      internalID: -863596673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet America para Pete_Mesa de trabajo 2_143
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f06ffdead166a47822da98302fa192
+      internalID: -1254999095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TileSet America para Pete_Mesa de trabajo 2_96: -56324753
+      TileSet America para Pete_Mesa de trabajo 2_17: -184654880
+      TileSet America para Pete_Mesa de trabajo 2_82: -1056846648
+      TileSet America para Pete_Mesa de trabajo 2_49: -1771150316
+      TileSet America para Pete_Mesa de trabajo 2_63: -1553277791
+      TileSet America para Pete_Mesa de trabajo 2_51: -166601248
+      TileSet America para Pete_Mesa de trabajo 2_89: 598571042
+      TileSet America para Pete_Mesa de trabajo 2_109: -1509731197
+      TileSet America para Pete_Mesa de trabajo 2_139: 2099836808
+      TileSet America para Pete_Mesa de trabajo 2_133: 2009727770
+      TileSet America para Pete_Mesa de trabajo 2_39: 30820794
+      TileSet America para Pete_Mesa de trabajo 2_52: 269439204
+      TileSet America para Pete_Mesa de trabajo 2_115: -149120484
+      TileSet America para Pete_Mesa de trabajo 2_9: -678947044
+      TileSet America para Pete_Mesa de trabajo 2_125: 1150218212
+      TileSet America para Pete_Mesa de trabajo 2_123: -1912502833
+      TileSet America para Pete_Mesa de trabajo 2_30: 411859609
+      TileSet America para Pete_Mesa de trabajo 2_113: 43854964
+      TileSet America para Pete_Mesa de trabajo 2_138: 814198910
+      TileSet America para Pete_Mesa de trabajo 2_74: -2119133925
+      TileSet America para Pete_Mesa de trabajo 2_70: -527201386
+      TileSet America para Pete_Mesa de trabajo 2_91: 226195237
+      TileSet America para Pete_Mesa de trabajo 2_21: 336676599
+      TileSet America para Pete_Mesa de trabajo 2_50: -2115059672
+      TileSet America para Pete_Mesa de trabajo 2_88: 1840850210
+      TileSet America para Pete_Mesa de trabajo 2_134: 1728711237
+      TileSet America para Pete_Mesa de trabajo 2_111: 1900301728
+      TileSet America para Pete_Mesa de trabajo 2_40: -1405243861
+      TileSet America para Pete_Mesa de trabajo 2_84: 319359364
+      TileSet America para Pete_Mesa de trabajo 2_43: 954187305
+      TileSet America para Pete_Mesa de trabajo 2_119: 1731582595
+      TileSet America para Pete_Mesa de trabajo 2_15: 1361324769
+      TileSet America para Pete_Mesa de trabajo 2_4: -2040367189
+      TileSet America para Pete_Mesa de trabajo 2_140: -2068986037
+      TileSet America para Pete_Mesa de trabajo 2_33: 1835114058
+      TileSet America para Pete_Mesa de trabajo 2_10: 1529752988
+      TileSet America para Pete_Mesa de trabajo 2_20: -264818217
+      TileSet America para Pete_Mesa de trabajo 2_121: 774022286
+      TileSet America para Pete_Mesa de trabajo 2_26: 1509090834
+      TileSet America para Pete_Mesa de trabajo 2_132: 119527193
+      TileSet America para Pete_Mesa de trabajo 2_81: -1299976378
+      TileSet America para Pete_Mesa de trabajo 2_79: 1312344370
+      TileSet America para Pete_Mesa de trabajo 2_108: -1037297508
+      TileSet America para Pete_Mesa de trabajo 2_98: 1540665493
+      TileSet America para Pete_Mesa de trabajo 2_100: -916438413
+      TileSet America para Pete_Mesa de trabajo 2_0: -1418187503
+      TileSet America para Pete_Mesa de trabajo 2_66: 615562759
+      TileSet America para Pete_Mesa de trabajo 2_114: -493816049
+      TileSet America para Pete_Mesa de trabajo 2_117: 206692627
+      TileSet America para Pete_Mesa de trabajo 2_77: -575862130
+      TileSet America para Pete_Mesa de trabajo 2_1: 1872316568
+      TileSet America para Pete_Mesa de trabajo 2_129: -110002572
+      TileSet America para Pete_Mesa de trabajo 2_38: 1169602548
+      TileSet America para Pete_Mesa de trabajo 2_22: 2089827624
+      TileSet America para Pete_Mesa de trabajo 2_62: 1483701591
+      TileSet America para Pete_Mesa de trabajo 2_86: 2066671855
+      TileSet America para Pete_Mesa de trabajo 2_112: 1345352793
+      TileSet America para Pete_Mesa de trabajo 2_118: 968199577
+      TileSet America para Pete_Mesa de trabajo 2_85: 761967823
+      TileSet America para Pete_Mesa de trabajo 2_94: -1975299083
+      TileSet America para Pete_Mesa de trabajo 2_143: -1254999095
+      TileSet America para Pete_Mesa de trabajo 2_37: 1832272158
+      TileSet America para Pete_Mesa de trabajo 2_69: 965145164
+      TileSet America para Pete_Mesa de trabajo 2_137: -2123395639
+      TileSet America para Pete_Mesa de trabajo 2_141: 703795237
+      TileSet America para Pete_Mesa de trabajo 2_99: 816094302
+      TileSet America para Pete_Mesa de trabajo 2_65: -26206882
+      TileSet America para Pete_Mesa de trabajo 2_122: 1675886387
+      TileSet America para Pete_Mesa de trabajo 2_73: 1318853299
+      TileSet America para Pete_Mesa de trabajo 2_23: -1793642212
+      TileSet America para Pete_Mesa de trabajo 2_41: 1674392305
+      TileSet America para Pete_Mesa de trabajo 2_128: -1845906333
+      TileSet America para Pete_Mesa de trabajo 2_103: -812886813
+      TileSet America para Pete_Mesa de trabajo 2_142: -863596673
+      TileSet America para Pete_Mesa de trabajo 2_61: -286174617
+      TileSet America para Pete_Mesa de trabajo 2_2: -1980054527
+      TileSet America para Pete_Mesa de trabajo 2_8: -1838597702
+      TileSet America para Pete_Mesa de trabajo 2_64: -1703121308
+      TileSet America para Pete_Mesa de trabajo 2_60: 1949551895
+      TileSet America para Pete_Mesa de trabajo 2_56: -1573623138
+      TileSet America para Pete_Mesa de trabajo 2_3: 1223572219
+      TileSet America para Pete_Mesa de trabajo 2_104: 1713430215
+      TileSet America para Pete_Mesa de trabajo 2_12: 98822776
+      TileSet America para Pete_Mesa de trabajo 2_76: 1073123051
+      TileSet America para Pete_Mesa de trabajo 2_93: 1184548709
+      TileSet America para Pete_Mesa de trabajo 2_120: 2101137138
+      TileSet America para Pete_Mesa de trabajo 2_124: -1517018466
+      TileSet America para Pete_Mesa de trabajo 2_16: 1644380370
+      TileSet America para Pete_Mesa de trabajo 2_44: 279626552
+      TileSet America para Pete_Mesa de trabajo 2_87: -33043986
+      TileSet America para Pete_Mesa de trabajo 2_127: -1249583585
+      TileSet America para Pete_Mesa de trabajo 2_92: 575556744
+      TileSet America para Pete_Mesa de trabajo 2_90: 972183956
+      TileSet America para Pete_Mesa de trabajo 2_130: 495637167
+      TileSet America para Pete_Mesa de trabajo 2_54: 512117242
+      TileSet America para Pete_Mesa de trabajo 2_13: -1361982836
+      TileSet America para Pete_Mesa de trabajo 2_80: 977925351
+      TileSet America para Pete_Mesa de trabajo 2_106: -2006383779
+      TileSet America para Pete_Mesa de trabajo 2_24: -2066241445
+      TileSet America para Pete_Mesa de trabajo 2_7: 429973136
+      TileSet America para Pete_Mesa de trabajo 2_116: -1414778483
+      TileSet America para Pete_Mesa de trabajo 2_131: 166701249
+      TileSet America para Pete_Mesa de trabajo 2_18: 748759093
+      TileSet America para Pete_Mesa de trabajo 2_72: 1724341223
+      TileSet America para Pete_Mesa de trabajo 2_97: -118176236
+      TileSet America para Pete_Mesa de trabajo 2_107: -219888853
+      TileSet America para Pete_Mesa de trabajo 2_28: 227905051
+      TileSet America para Pete_Mesa de trabajo 2_78: -965295217
+      TileSet America para Pete_Mesa de trabajo 2_95: -1358427667
+      TileSet America para Pete_Mesa de trabajo 2_83: 1679895668
+      TileSet America para Pete_Mesa de trabajo 2_101: -1829541654
+      TileSet America para Pete_Mesa de trabajo 2_36: 1558522666
+      TileSet America para Pete_Mesa de trabajo 2_59: -1941891013
+      TileSet America para Pete_Mesa de trabajo 2_19: -1418827786
+      TileSet America para Pete_Mesa de trabajo 2_126: -404674458
+      TileSet America para Pete_Mesa de trabajo 2_102: 819389516
+      TileSet America para Pete_Mesa de trabajo 2_48: 1019350092
+      TileSet America para Pete_Mesa de trabajo 2_5: -1488225480
+      TileSet America para Pete_Mesa de trabajo 2_35: -571184527
+      TileSet America para Pete_Mesa de trabajo 2_67: -75476800
+      TileSet America para Pete_Mesa de trabajo 2_58: 18444300
+      TileSet America para Pete_Mesa de trabajo 2_11: 2087515015
+      TileSet America para Pete_Mesa de trabajo 2_47: -957776525
+      TileSet America para Pete_Mesa de trabajo 2_135: 1178567200
+      TileSet America para Pete_Mesa de trabajo 2_75: 135004234
+      TileSet America para Pete_Mesa de trabajo 2_27: 1799379924
+      TileSet America para Pete_Mesa de trabajo 2_45: -789209532
+      TileSet America para Pete_Mesa de trabajo 2_53: -313891527
+      TileSet America para Pete_Mesa de trabajo 2_71: 676162126
+      TileSet America para Pete_Mesa de trabajo 2_46: -972172092
+      TileSet America para Pete_Mesa de trabajo 2_34: -1038736779
+      TileSet America para Pete_Mesa de trabajo 2_31: -1768099884
+      TileSet America para Pete_Mesa de trabajo 2_42: -576544943
+      TileSet America para Pete_Mesa de trabajo 2_110: -1277903827
+      TileSet America para Pete_Mesa de trabajo 2_32: -618179866
+      TileSet America para Pete_Mesa de trabajo 2_136: 1140453134
+      TileSet America para Pete_Mesa de trabajo 2_6: 669894929
+      TileSet America para Pete_Mesa de trabajo 2_29: 1164940954
+      TileSet America para Pete_Mesa de trabajo 2_14: 1984344750
+      TileSet America para Pete_Mesa de trabajo 2_57: 917136539
+      TileSet America para Pete_Mesa de trabajo 2_55: 1207779535
+      TileSet America para Pete_Mesa de trabajo 2_68: 1977893829
+      TileSet America para Pete_Mesa de trabajo 2_25: 1597952866
+      TileSet America para Pete_Mesa de trabajo 2_105: -1916604675
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
