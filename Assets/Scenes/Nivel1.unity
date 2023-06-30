@@ -391,7 +391,7 @@ MonoBehaviour:
   quienEsElJugador: {fileID: 758303163}
   offset: 0.5
   minLim: {x: -7.4, y: -3.5}
-  maxLim: {x: 150, y: -3.5}
+  maxLim: {x: 153.5, y: 9}
 --- !u!1001 &66565734
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10189,11 +10189,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5757826722091306296, guid: d6314a3fdfc53f54fa7b642b10a25005, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 103.63
+      value: 152.29
       objectReference: {fileID: 0}
     - target: {fileID: 5757826722091306296, guid: d6314a3fdfc53f54fa7b642b10a25005, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.63
+      value: 5.03
       objectReference: {fileID: 0}
     - target: {fileID: 5757826722091306296, guid: d6314a3fdfc53f54fa7b642b10a25005, type: 3}
       propertyPath: m_LocalPosition.z
